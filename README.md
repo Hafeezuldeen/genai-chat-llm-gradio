@@ -74,7 +74,7 @@ demo.launch()
 ```
 ### OUTPUT:
 
-![exp-8 op](https://github.com/user-attachments/assets/87f3d61f-5a65-4815-bb69-70e8b7b54b2d)
+<img width="1522" height="398" alt="image" src="https://github.com/user-attachments/assets/6dc2e2e2-ab77-469b-97a1-49bbf23e7e43" />
 
 ![image](https://github.com/user-attachments/assets/236fc66b-1eab-480c-a752-25ed2b4b5ec2)
 
